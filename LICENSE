@@ -4,6 +4,7 @@ Copyright (c) 2021 Yihong Xu
 
 TransCenter is derived from Deformable-DETR, https://github.com/yxgeee/MMT, distributed under Apache License 2.0 2020.
 TransCenter is derived from tracking_wo_bnw, https://github.com/phil-bergmann/tracking_wo_bnw, distributed under GNU General Public License v3.0 2020.
+TransCenter is derived from CenterTrack, https://github.com/xingyizhou/CenterTrack, distributed under MIT Licence 2020 Xingyi Zhou.
 
 Below you can find the MIT License associated to this MMT software.
 
