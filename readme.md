@@ -6,7 +6,7 @@
 **[[Paper](https://arxiv.org/abs/2103.15145)]** <br />
 
 <div align="center">
-  <img src="https://github.com/yihongXU/TransCenter/raw/main/pipeline.png" width="1200px" />
+  <img src="https://github.com/yihongXU/TransCenter/raw/main/pipelineV2.png" width="1200px" />
 </div>
 
 
