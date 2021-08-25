@@ -9,7 +9,7 @@
 </div>
 
 ## Bibtex
-If you find this code useful, please star the project and consider citing:
+**If you find this code useful, please star the project and consider citing:**
 
 ```
 @misc{xu2021transcenter,
