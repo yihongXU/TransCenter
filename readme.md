@@ -27,7 +27,7 @@
 
 The code for TransCenter is modified and network pre-trained weights are obtained from the following repositories:
 
-1) The Person Reid Network  (./tracking/transcenter/model_zoo/ResNet_iter_25245.pth) is from Tracktor.
+1) The Person Re-ID Network  (./tracking/transcenter/model_zoo/ResNet_iter_25245.pth) is from Tracktor.
 2) The lightflownet pretrained model (./tracking/transcenter/util/LiteFlownet/network-kitti.pytorch) is from pytorch-liteflownet and LiteFlowNet.
 3) The deformable transformer pretrained model (./model_zoo/r50_deformable_detr-checkpoint.pth) is from Deformable-DETR.
 4) The data format conversion code is modified from CenterTrack.
