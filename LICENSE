@@ -1,6 +1,6 @@
-TransCenter: Transformers with Dense Queries for Multiple-Object Tracking
+TransCenter: Transformers with Dense Representations for Multiple-Object Tracking
 Copyright Inria
-Year 2021
+Year 2022
 Contact : yihong.xu@inria.fr
 
 TransCenter is free software: you can redistribute it and/or modify
@@ -47,27 +47,7 @@ TransCenter has code derived from
     
 TransCenter uses packages from
 (1) DCNv2, https://github.com/CharlesShang/DCNv2, distributed under BSD 3-Clause 2019 Charles Shang.
-(2) correlation_package, https://github.com/NVIDIA/flownet2-pytorch/tree/master/networks/correlation_package, Apache License, Version 2.0 2017 NVIDIA CORPORATION.
-(3) pytorch-liteflownet, https://github.com/sniklaus/pytorch-liteflownet, GNU General Public License v3.0 2019 Simon Niklaus.
-(4) LiteFlowNet, https://github.com/twhui/LiteFlowNet, Copyright (c) 2018 Tak-Wai Hui.
-    Below you can find the License associated to this LiteFlowNet software:
-
-    This software and associated documentation files (the "Software"), and the research paper
-    (LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation) including
-    but not limited to the figures, and tables (the "Paper") are provided for academic research purposes
-    only and without any warranty. Any commercial use requires my consent. When using any parts
-    of the Software or the Paper in your work, please cite the following paper:
-
-    @InProceedings{hui18liteflownet,
-    author = {Tak-Wai Hui and Xiaoou Tang and Chen Change Loy},
-    title = {LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation},
-    booktitle  = {Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year = {2018},
-    pages = {8981--8989},
-    }
-
-    The above copyright notice and this permission notice shall be included in all copies or
-    substantial portions of the Software.
+(2) MultiScaleDeformableAttention, https://github.com/fundamentalvision/Deformable-DETR distributed under Apache-2.0 license 2020 fundamentalvision.
 
 Below you can find the License associated to this TransCenter software:
 
@@ -745,3 +725,4 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
