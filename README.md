@@ -1,6 +1,6 @@
 ## TransCenter V2: Transformers with Dense Representations for Multiple-Object Tracking <br />
 
-## An update for more efficient and powerful TransCenter ##
+## An update towards a more efficient and powerful TransCenter ##
 
 ## TransCenter V2's code is now available, you can find the code and pretrained models at https://gitlab.inria.fr/yixu/TransCenter_official.
 
