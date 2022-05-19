@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/yihongXU/TransCenter/raw/main/pipelineV2.png" width="1200px" />
+  <img src="https://github.com/yihongXU/TransCenter/raw/oldTransCenter/pipelineV2.png" width="1200px" />
 </div>
 
 ## Bibtex
