@@ -1,6 +1,6 @@
 ## TransCenter V2: Transformers with Dense Representations for Multiple-Object Tracking <br />
 
-## An update towards a more efficient and powerful TransCenter ##
+## An update towards a more efficient and powerful TransCenter, TransCenter-Lite ##
 
 ## TransCenter V2's code is now available, you can find the code and pretrained models at https://gitlab.inria.fr/yixu/TransCenter_official.
 
@@ -16,7 +16,7 @@
 **If you find this code useful, please star the project and consider citing:** <br />
 ```
 @misc{xu2021transcenter,
-      title={TransCenter: Transformers with Dense Queries for Multiple-Object Tracking}, 
+      title={TransCenter: Transformers with Dense Representations for Multiple-Object Tracking}, 
       author={Yihong Xu and Yutong Ban and Guillaume Delorme and Chuang Gan and Daniela Rus and Xavier Alameda-Pineda},
       year={2021},
       eprint={2103.15145},
@@ -27,6 +27,9 @@
 
 
 ## MOTChallenge Results
+
+***For TransCenter V2***:
+
 MOT17 public detections:
      
 | Pretrained| MOTA     | MOTP     | IDF1 |  FP    | FN    | IDS |
@@ -63,7 +66,7 @@ MOT20 private detections:
 
 ## Acknowledgement
 
-The code for TransCenter V2 is modified and network pre-trained weights are obtained from the following repositories:
+The code for TransCenterV2, TransCenter-Lite is modified and network pre-trained weights are obtained from the following repositories:
 
 1) The PVTv2 backbone pretrained models from PVTv2.
 2) The data format conversion code is modified from CenterTrack.
