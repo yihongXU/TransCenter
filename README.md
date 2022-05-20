@@ -1,8 +1,8 @@
-## TransCenter V2: Transformers with Dense Representations for Multiple-Object Tracking <br />
+## TransCenterV2: Transformers with Dense Representations for Multiple-Object Tracking <br />
 
-## An update towards a more efficient and powerful TransCenter, TransCenter-Lite ##
+## An update towards a more efficient and powerful TransCenter, TransCenter-Lite! ##
 
-## TransCenter V2's code is now available, you can find the code and pretrained models at https://gitlab.inria.fr/yixu/TransCenter_official.
+## The code for TransCenterV2 and TransCenter-Lite is now available, you can find the code and pretrained models at https://gitlab.inria.fr/yixu/TransCenter_official.
 
 **TransCenter: Transformers with Dense Representations for Multiple-Object Tracking** <br />
 [Yihong Xu](https://team.inria.fr/robotlearn/team-members/yihong-xu/), [Yutong Ban](https://team.inria.fr/perception/team-members/yutong-ban/), [Guillaume Delorme](https://team.inria.fr/robotlearn/team-members/guillaume-delorme/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Daniela Rus](http://danielarus.csail.mit.edu/), [Xavier Alameda-Pineda](http://xavirema.eu/) <br />
