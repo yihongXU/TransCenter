@@ -1,5 +1,5 @@
 ## TransCenterV2: Transformers with Dense Representations for Multiple-Object Tracking <br />
-
+## The work is accepted for TPAMI 2022.
 ## An update towards a more efficient and powerful TransCenter, TransCenter-Lite! ##
 
 ## The code for TransCenterV2 and TransCenter-Lite is now available, you can find the code and pretrained models at https://gitlab.inria.fr/robotlearn/TransCenter_official.
