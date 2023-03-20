@@ -1,4 +1,4 @@
-## TransCenterV2: Transformers with Dense Representations for Multiple-Object Tracking <br />
+## TransCenter: Transformers with Dense Representations for Multiple-Object Tracking <br />
 ## The work is accepted for TPAMI 2022.
 ## An update towards a more efficient and powerful TransCenter, TransCenter-Lite! ##
 
@@ -10,6 +10,11 @@
 
 <div align="center">
   <img src="https://github.com/yihongXU/TransCenter/raw/main/eTransCenter_pipeline.png" width="1200px" />
+</div>
+
+MOT20 example:
+<div align="center">
+![](https://github.com/yihongXU/TransCenter/blob/main/transcenter_mot20_example.gif)
 </div>
 
 ## Bibtex
