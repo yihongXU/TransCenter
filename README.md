@@ -13,9 +13,8 @@
 </div>
 
 MOT20 example:
-<div align="center">
 ![](https://github.com/yihongXU/TransCenter/blob/main/transcenter_mot20_example.gif)
-</div>
+
 
 ## Bibtex
 **If you find this code useful, please star the project and consider citing:** <br />
