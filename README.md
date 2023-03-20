@@ -13,7 +13,7 @@
 </div>
 
 <br /><br />
-**MOT20 example: <br />
+**MOT20 example: **<br />
 ![](https://github.com/yihongXU/TransCenter/blob/main/transcenter_mot20_example.gif)
 
 
