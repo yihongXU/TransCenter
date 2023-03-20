@@ -12,6 +12,7 @@
   <img src="https://github.com/yihongXU/TransCenter/raw/main/eTransCenter_pipeline.png" width="1200px" />
 </div>
 
+<br /><br />
 MOT20 example:
 ![](https://github.com/yihongXU/TransCenter/blob/main/transcenter_mot20_example.gif)
 
