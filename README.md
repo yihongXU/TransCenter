@@ -2,7 +2,7 @@
 ## The work is accepted for TPAMI 2022.
 ## An update towards a more efficient and powerful TransCenter, TransCenter-Lite! ##
 
-## The code for TransCenterV2 and TransCenter-Lite is now available, you can find the code and pretrained models at https://gitlab.inria.fr/robotlearn/TransCenter_official.
+## The code for TransCenter and TransCenter-Lite is now available, you can find the code and pretrained models at https://gitlab.inria.fr/robotlearn/TransCenter_official.
 
 **TransCenter: Transformers with Dense Representations for Multiple-Object Tracking** <br />
 [Yihong Xu](https://team.inria.fr/robotlearn/team-members/yihong-xu/), [Yutong Ban](https://people.csail.mit.edu/yban/index.html), [Guillaume Delorme](https://team.inria.fr/robotlearn/team-members/guillaume-delorme/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Daniela Rus](http://danielarus.csail.mit.edu/), [Xavier Alameda-Pineda](http://xavirema.eu/) <br />
