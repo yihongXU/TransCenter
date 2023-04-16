@@ -33,7 +33,7 @@
 
 ## MOTChallenge Results
 
-***For TransCenter V2***:
+***For TransCenter***:
 
 MOT17 public detections:
      
